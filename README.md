@@ -11,9 +11,7 @@ Este projeto faz parte do grupo de interesse em Finanças Computacionais e inves
 
 ## Documentation
 
-- [Click here](docs/index.md) to access the documentation.
-
-* [Click here](docs/PCI_package.pdf) to access the manuscript.
+* [Click here](docs/PyCPI_package.pdf) to access the manuscript.
   
 
 ## How to install
@@ -62,14 +60,14 @@ $ poetry shell
 
 ### APA
 ```text
-C. N da Silva, T. Pipeline de disponibilização dos Relatórios Obrigatórios no mercado de Capitais Brasileiro [Computer software]. https://github.com/fico-ita/po_245_2023_T4.git
+C. N da Silva, T. PyCPI : A package for capturing, NLP preprocessing, and Solr indexing of mandatory reports in the Brazilian Capital Market [Computer software]. https://github.com/fico-ita/po_245_2023_T4.git
 ```
 
 ### BibTeX
 ```bibtex
 @software{C_N_da_Silva_Pipeline_de_disponibilizacao,
 author = {C. N da Silva, Thiago},
-title = {{Pipeline de disponibilização dos Relatórios Obrigatórios no mercado de Capitais Brasileiro}},
+title = {{PyCPI : A package for capturing, NLP preprocessing, and Solr indexing of mandatory reports in the Brazilian Capital Market}},
 url = {https://github.com/fico-ita/po_245_2023_T4.git}
 }
 ```
