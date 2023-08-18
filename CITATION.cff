@@ -3,8 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  Pipeline de disponibilização dos Relatórios Obrigatórios
-  no mercado de Capitais Brasileiro
+  PyCPI : A package for capturing, NLP preprocessing, and Solr indexing of mandatory reports in the Brazilian Capital Market
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
